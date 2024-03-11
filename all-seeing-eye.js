@@ -25,3 +25,6 @@ stroke(252, 237, 101);
 strokeWeight(22);
 point(200, 220); 
 
+
+image(getImage("cute/Star"), 11, 1, 50, 80);
+image(getImage("cute/Star"), 346, 1, 50, 80);
